@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+Olá seja bem vindo ao meu perfil
+Meu nome é isabelly
+Estou etudando no alura
 **isabelly1209/isabelly1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
